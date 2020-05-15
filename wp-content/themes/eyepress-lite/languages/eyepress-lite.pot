@@ -1,0 +1,136 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Eyepress Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-05 10:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.4"
+
+#: header.php:34
+msgid "A"
+msgstr ""
+
+#: index.php:28 index.php:35
+msgid "blog banner"
+msgstr ""
+
+#: header.php:35
+msgid "D"
+msgstr ""
+
+#. Name of the theme
+msgid "Eyepress Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Eyepress Lite is a free responsive pure personal blog WordPress theme. This "
+"is the child theme of EyePress theme. eyepress Lite is very good for pesonal "
+"blog because you can show your personal data by eyepress Lite side menu. "
+"Personal details menu is an awesome feature in the eyepress Lite theme.  "
+"eyepress Lite is editable and super flexible new functionality. The theme "
+"has nice, beautiful and professional layouts. This theme is made for any "
+"search engine, SEO Compatible.  Bootstrap Framework based so it’s totally "
+"responsive.  Html5 and css3 based coded.  It is the multipurpose theme you "
+"case to use for the business, corporate, agency, startup, consulting "
+"websites."
+msgstr ""
+
+#: header.php:38
+msgid "G"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://profiles.wordpress.org/nalam-1/"
+msgstr ""
+
+#: footer.php:11
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: header.php:36
+msgid "I"
+msgstr ""
+
+#: header.php:32
+msgid "L"
+msgstr ""
+
+#: header.php:37
+msgid "N"
+msgstr ""
+
+#. Author of the theme
+msgid "Noor alam"
+msgstr ""
+
+#: header.php:33
+msgid "O"
+msgstr ""
+
+#: footer.php:11
+msgid "Proudly powered by WordPress"
+msgstr ""
+
+#: index.php:16
+msgid "Read form blog"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Select Theme color"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: index.php:17
+msgid ""
+"The namics of how users interact with interactive elements within a <br> "
+"user interface flow chart based on container proportion."
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Theme Black"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Theme Blue"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Theme Blue Grey"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Theme Brown"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Theme Green"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Theme Indigo"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Theme purple"
+msgstr ""
+
+#: footer.php:11
+msgid "Theme: EyePress by"
+msgstr ""
+
+#: footer.php:11
+msgid "wp theme space"
+msgstr ""
